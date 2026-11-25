@@ -16,7 +16,7 @@ dependencies:
   kelime_motoru:
     git:
       url: https://github.com/taktemurr-ops/kelime-motoru
-      ref: dce048c68065044cb9ea41bd58a949785304fe2d
+      ref: bb5f947510c0ac2a2d66ed83b3b64c7f0d281833
 
 dev_dependencies:
   flutter_test:
